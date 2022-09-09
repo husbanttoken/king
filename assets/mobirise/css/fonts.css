@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "GoudyOldStyleBT-Roman Bold";
+    src: url("/assets/images/Goudy\ Old\ Style\ BT\ bold.woff2") format("woff");
+  }
+  
+  @font-face {
+      font-family: 'GoudyOldStyleBT-Roman';
+      src: url('/assets/images/Goudy\ Old\ Style\ BT.woff2') format('woff');
+  }
